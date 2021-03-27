@@ -26,6 +26,8 @@ Apart from my professional background, I love to teach Data Science. I have taug
 - Apprentice Philosopher 
 - Lifeaholic Evangelist
 
+### Stay Connected
+- [Data Science YouTube Channel](https://swiy.io/DS_KN_Sub)
 - [Data Science Podcasts](https://swiy.io/POD_Data_Masterminds)
 - [Adjective Content Creators Podcast](https://hi.switchy.io/ADJCC_POD)
 
