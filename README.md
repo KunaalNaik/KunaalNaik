@@ -26,6 +26,9 @@ Apart from my professional background, I love to teach Data Science. I have taug
 - Apprentice Philosopher 
 - Lifeaholic Evangelist
 
+### Dashboards
+- [Super Store Dashboard](https://public.tableau.com/app/profile/kunaal.naik/viz/SuperStore_Aug2021/Dashboard1?publish=yes)
+
 ### Stay Connected
 - [Data Science YouTube Channel](https://swiy.io/DS_KN_Sub)
 - [Data Science Podcasts](https://swiy.io/POD_Data_Masterminds)
