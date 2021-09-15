@@ -50,5 +50,7 @@ Apart from my professional background, I love to teach Data Science. I have taug
 
 ![](https://visitor-badge.glitch.me/badge?page_id=KunaalNaik.KunaalNaik)
 
+Profile Visits : [![HitCount](http://hits.dwyl.com/bhattbhavesh91/bhattbhavesh91.svg)](http://hits.dwyl.com/bhattbhavesh91/bhattbhavesh91)
+
 
 
