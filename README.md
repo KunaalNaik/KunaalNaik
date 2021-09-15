@@ -46,11 +46,10 @@ Apart from my professional background, I love to teach Data Science. I have taug
 
 ### :zap: GitHub Stats
 
-<img align="left" alt="codeghoul's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=KunaalNaik&show_icons=true&hide_border=true&count_private=true&theme=graywhite&hide_title=true" />
-
 ![](https://visitor-badge.glitch.me/badge?page_id=KunaalNaik.KunaalNaik)
 
+<!--
 Profile Visits : [![HitCount](http://hits.dwyl.com/bhattbhavesh91/bhattbhavesh91.svg)](http://hits.dwyl.com/bhattbhavesh91/bhattbhavesh91)
-
+-->
 
 
