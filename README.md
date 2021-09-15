@@ -31,20 +31,16 @@ Apart from my professional background, I love to teach Data Science. I have taug
 
 ### Stay Connected
 
-<!---
-### Subscribe to my Machine Learning based YouTube channel : 
-[![YouTube ML Channel](https://img.shields.io/youtube/channel/subscribers/UC8ofcOdHNINiPrBA9D59Vaw?style=social)](https://www.youtube.com/c/KunaalNaik/?sub_confirmation=1) [![YouTube ML Channel Stats](https://img.shields.io/youtube/channel/views/UC8ofcOdHNINiPrBA9D59Vaw)](https://www.youtube.com/c/KunaalNaik/?sub_confirmation=1)
-
-Subscribe to my Machine Learning based YouTube channel &#10230; [Click here](https://youtube.com/BhaveshBhatt8791)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8ofcOdHNINiPrBA9D59Vaw?style=social)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC8ofcOdHNINiPrBA9D59Vaw?style=social)
-<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC8ofcOdHNINiPrBA9D59Vaw?style=social">
-
-Subscribe to my Python based YouTube channel &#10230; [Click here](https://www.youtube.com/PythonTricks/)
-
-
-[![Bhavesh's github stats](https://github-readme-stats.vercel.app/api?username=KunaalNaik&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
--->
+<table font-size:30px;>
+   <tr>
+      <td><a href="https://www.youtube.com/BhaveshBhatt8791?sub_confirmation=1" target="_blank"><img height="30" src = "https://img.shields.io/youtube/channel/subscribers/UC8ofcOdHNINiPrBA9D59Vaw?style=social&logo=Youtube&label=Subscribe%20to%20my%20Machine%20Learning%20channel"></a></td>
+      <td><a href="https://www.youtube.com/BhaveshBhatt8791?sub_confirmation=1" target="_blank"><img height="30" alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC8ofcOdHNINiPrBA9D59Vaw?color=blue&label=Views&logo=YouTube&style=flat-square"></a></td>
+   </tr>
+      <tr>
+      <td><a href="https://www.youtube.com/c/PythonTricks?sub_confirmation=1" target="_blank"><img height="30" src = "https://img.shields.io/youtube/channel/subscribers/UCo_uTt4go2qs8xOJaUgsiiw?style=social&logo=Youtube&label=Subscribe%20to%20my%20Python%20channel"></a></td>
+      <td><a href="https://www.youtube.com/c/PythonTricks?sub_confirmation=1" target="_blank"><img height="30" alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCo_uTt4go2qs8xOJaUgsiiw?color=Yellow&label=Views&logo=YouTube&logoColor=Red&style=flat-square"></a></td>
+   </tr>
+</table>
 
 - [Data Science YouTube Channel](https://swiy.io/DS_KN_Sub)
 - [Data Science Podcasts](https://swiy.io/POD_Data_Masterminds)
