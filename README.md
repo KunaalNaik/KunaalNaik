@@ -33,8 +33,8 @@ Apart from my professional background, I love to teach Data Science. I have taug
 
 <table font-size:30px;>
    <tr>
-      <td><a href="https://www.youtube.com/KunaalNaik?sub_confirmation=1" target="_blank"><img height="30" src = "https://img.shields.io/youtube/channel/subscribers/KunaalNaik?style=social&logo=Youtube&label=Subscribe%20to%20my%20Machine%20Learning%20channel"></a></td>
-      <td><a href="https://www.youtube.com/KunaalNaik?sub_confirmation=1" target="_blank"><img height="30" alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/KunaalNaik?color=blue&label=Views&logo=YouTube&style=flat-square"></a></td>
+      <td><a href="https://www.youtube.com/KunaalNaik?sub_confirmation=1" target="_blank"><img height="30" src = "https://img.shields.io/youtube/channel/subscribers/UCZN-xTV6lFwfJHl6ZId_dOg?style=social&logo=Youtube&label=Subscribe%20to%20my%20Machine%20Learning%20channel"></a></td>
+      <td><a href="https://www.youtube.com/KunaalNaik?sub_confirmation=1" target="_blank"><img height="30" alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCZN-xTV6lFwfJHl6ZId_dOg?color=blue&label=Views&logo=YouTube&style=flat-square"></a></td>
    </tr>
       <tr>
       <td><a href="https://www.youtube.com/c/PythonTricks?sub_confirmation=1" target="_blank"><img height="30" src = "https://img.shields.io/youtube/channel/subscribers/UCo_uTt4go2qs8xOJaUgsiiw?style=social&logo=Youtube&label=Subscribe%20to%20my%20Python%20channel"></a></td>
