@@ -33,7 +33,7 @@ Apart from my professional background, I love to teach Data Science. I have taug
 
 <table font-size:30px;>
    <tr>
-      <td><a href="https://www.youtube.com/KunaalNaik?sub_confirmation=1" target="_blank"><img height="30" src = "https://img.shields.io/youtube/channel/subscribers/UCZN-xTV6lFwfJHl6ZId_dOg?style=social&logo=Youtube&label=Subscribe%20to%20my%2Data%20Science%20Channel"></a></td>
+      <td><a href="https://www.youtube.com/KunaalNaik?sub_confirmation=1" target="_blank"><img height="30" src = "https://img.shields.io/youtube/channel/subscribers/UCZN-xTV6lFwfJHl6ZId_dOg?style=social&logo=Youtube&label=Subscribe%20to%20my%20Data%20Science%20Channel"></a></td>
       <td><a href="https://www.youtube.com/KunaalNaik?sub_confirmation=1" target="_blank"><img height="30" alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCZN-xTV6lFwfJHl6ZId_dOg?color=blue&label=Views&logo=YouTube&style=flat-square"></a></td>
    </tr>
 </table>
