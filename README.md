@@ -16,15 +16,17 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-I love teaching Data Science and am an avid learner. I want inspire aspirants to get a Data Science job. I have over 10 years of Experience in the field of Data Science across domains such as Marketing, Insurance, HR and Retail. Currently I work at Dell as an Marketing Advisor.
+I am the Founder of Data Science Masterminds and I am on a Mission to help 1 Million ⚡ Data Professionals and Non-Programmers learn and apply Data Science effectively. That too using Non-Linear Methods of Learning. 
 
-### Data Science Coach
-Apart from my professional background, I love to teach Data Science. I have taught over 50 Corporates/Institutes including CITI Bank, Genpact, Fidelity, Corporate Executive Board, Madras School of Economics. 
+I have taught over 50 Corporates/Institutes including CITI Bank, Genpact, Fidelity, Corporate Executive Board, Madras School of Economics. 
+
+### Work
+I currently work in Dell as Sr. Data Scientist. 
 
 ### What do I do for Fun?
-- I love Scuba Diving
-- Apprentice Philosopher 
-- Lifeaholic Evangelist
+- I Scuba Dive when I can 😄
+- I love to talk to new people and learn from them. I love hosting people on my Podcast
+- I love to travel, eat food and explore with my partner
 
 ### Dashboards
 - [Super Store Dashboard](https://public.tableau.com/app/profile/kunaal.naik/viz/SuperStore_Aug2021/Dashboard1?publish=yes)
@@ -40,7 +42,6 @@ Apart from my professional background, I love to teach Data Science. I have taug
 
 - [Data Science YouTube Channel](https://swiy.io/DS_KN_Sub)
 - [Data Science Podcasts](https://swiy.io/POD_Data_Masterminds)
-- [Adjective Content Creators Podcast](https://hi.switchy.io/ADJCC_POD)
 
 <a href="https://www.buymeacoffee.com/KunaalNaik" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
