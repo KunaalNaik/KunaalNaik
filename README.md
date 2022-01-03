@@ -1,5 +1,7 @@
 ### Hi there 👋 I am Kunaal Naik!
 
+[6-Step Guide to get into Data Science](https://kunaalnaik.com/)
+
 <!--
 **KunaalNaik/KunaalNaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-I am the Founder of Data Science Masterminds and I am on a Mission to help 1 Million ⚡ Data Professionals and Non-Programmers learn and apply Data Science effectively. That too using Non-Linear Methods of Learning. 
+I am the Founder of [Data Science Masterminds](https://datasciencemasterminds.com/) and I am on a Mission to help 1 Million ⚡ Data Professionals and Non-Programmers learn and apply Data Science effectively. That too using Non-Linear Methods of Learning. 
 
 I have taught over 50 Corporates/Institutes including CITI Bank, Genpact, Fidelity, Corporate Executive Board, Madras School of Economics. 
 
