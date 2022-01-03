@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Kunaal Naik!
 
-[6-Step Guide to get into Data Science](https://kunaalnaik.com/)
+[Download your 6 Step Guide to Launch your Data Science Career by starting to Solve Problems and apply Critical Thinking](https://kunaalnaik.com/)
 
 <!--
 **KunaalNaik/KunaalNaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
