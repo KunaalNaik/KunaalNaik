@@ -1,58 +1,45 @@
-### Hi there 👋 I am Kunaal Naik!
+### Welcome to New Data Science Masterminds (DSM)
 
-[Download your 6 Step Guide to Launch your Data Science Career by starting to Solve Problems and apply Critical Thinking](https://kunaalnaik.com/)
+#### Transforming Careers by Building Data-Driven Leaders
 
-<!--
-**KunaalNaik/KunaalNaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+At **Data Science Masterminds (DSM)**, we are on a mission to empower professionals to become data-driven leaders. Whether you're a job seeker, a mid-career professional, or an executive, our programs help you master **Python, No-Code AI Agents, and Data Science** to accelerate your career growth.
 
-Here are some ideas to get you started:
+#### Why DSM?
+- **Practical Learning:** Solve real-world business problems using data-driven strategies.
+- **Innovative Methods:** Learn through Python, No-Code AI Agents, and automation tools.
+- **Leadership Development:** Not just data, but leadership skills for impact.
+- **Industry Expertise:** Training by professionals with years of experience in data science and AI.
+- **Proven Results:** Helping professionals land top jobs and promotions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Choose Your Path
 
-### About Me
-I am the Founder of [Data Science Masterminds](https://datasciencemasterminds.com/) and I am on a Mission to help 1 Million ⚡ Data Professionals and Non-Programmers learn and apply Data Science effectively. That too using Non-Linear Methods of Learning. 
+#### 🚀 Career Accelerator Program
+Fast-track your data science career with our hands-on, guided program.
+[Join Career Accelerator Now](#)
 
-I have taught over 50 Corporates/Institutes including CITI Bank, Genpact, Fidelity, Corporate Executive Board, Madras School of Economics. 
+#### 🎯 LinkedIn for Job Search
+Master LinkedIn strategies and get hired faster using data-driven job search methods.
+[Enroll in LinkedIn Job Search Program](#)
 
-### Work
-I currently work in Dell as Sr. Data Scientist. 
-
-### What do I do for Fun?
-- I Scuba Dive when I can 😄
-- I love to talk to new people and learn from them. I love hosting people on my Podcast
-- I love to travel, eat food and explore with my partner
-
-### Dashboards
-- [Super Store Dashboard](https://public.tableau.com/app/profile/kunaal.naik/viz/SuperStore_Aug2021/Dashboard1?publish=yes)
+### Our Core Values
+- **Innovation:** We leverage the latest AI, automation, and no-code tools.
+- **Growth Mindset:** We help professionals grow continuously.
+- **Impact:** Turning learning into real-world business solutions.
+- **Community:** A strong network of data professionals and leaders.
 
 ### Stay Connected
 
-<table font-size:30px;>
-   <tr>
-      <td><a href="https://www.youtube.com/KunaalNaik?sub_confirmation=1" target="_blank"><img height="30" src = "https://img.shields.io/youtube/channel/subscribers/UCZN-xTV6lFwfJHl6ZId_dOg?style=social&logo=Youtube&label=Subscribe%20to%20my%20Data%20Science%20Channel"></a></td>
-      <td><a href="https://www.youtube.com/KunaalNaik?sub_confirmation=1" target="_blank"><img height="30" alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCZN-xTV6lFwfJHl6ZId_dOg?color=blue&label=Views&logo=YouTube&style=flat-square"></a></td>
-   </tr>
-</table>
+- **[YouTube Channel](https://www.youtube.com/KunaalNaik?sub_confirmation=1)**
+- **[Data Science Podcasts](https://swiy.io/POD_Data_Masterminds)**
+- **[LinkedIn Profile](https://www.linkedin.com/in/kunaalnaik/)**
+- **[Website](https://datasciencemasterminds.com/)**
+- **[Buy Me a Coffee](https://www.buymeacoffee.com/KunaalNaik)**
 
-- [Data Science YouTube Channel](https://swiy.io/DS_KN_Sub)
-- [Data Science Podcasts](https://swiy.io/POD_Data_Masterminds)
+### Get Started Today!
+Ready to elevate your career with Data Science Masterminds? Choose the path that suits you and start transforming your future now!
 
-<a href="https://www.buymeacoffee.com/KunaalNaik" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+For more details, reach out to us or explore our programs:
+- **[Career Accelerator Program](#)**
+- **[LinkedIn for Job Search](#)**
 
-### :zap: GitHub Stats
-
-![](https://visitor-badge.glitch.me/badge?page_id=KunaalNaik.KunaalNaik)
-
-<!--
-Profile Visits : [![HitCount](http://hits.dwyl.com/bhattbhavesh91/bhattbhavesh91.svg)](http://hits.dwyl.com/bhattbhavesh91/bhattbhavesh91)
--->
-
-
+Join DSM and become a **data-driven leader today!** 🚀
